@@ -1,0 +1,46 @@
+[
+  {
+    "name": "PMAP",
+    "organization": "U.S. Geological Survey",
+    "description": "1D volcanic plume modeling software with particle aggregation",
+    "version": "1.0",
+    "status": "public",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/VSC/PMAP/-/raw/v1.0/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/VSC/PMAP",
+    "downloadURL": "https://code.usgs.gov/VSC/PMAP/-/archive/v1.0/PMAP-v1.0.zip",
+    "disclaimerURL": "https://code.usgs.gov/VSC/PMAP/-/raw/v1.0/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/VSC/PMAP.git",
+    "vcs": "git",
+
+    "laborHours": 0,
+
+    "tags": [
+      "volcanoes",
+      "volcanic plumes",
+      "particle aggregation"
+    ],
+
+    "languages": [
+      "Matlab"
+    ],
+
+    "contact": {
+      "name": "REPOSITORY_ADMINISTRATOR_NAME",
+      "email": "REPOSITORY_ADMINISTRATOR_EMAIL"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-09-27"
+    }
+  }
+]
